@@ -9,8 +9,11 @@ I am a dedicated student with a passion for software development. As I work towa
 🔍 Areas of Expertise-
 
 -Python: Proficient in developing applications and scripts
+
 -Operating Systems: Understanding of various OS concepts and functionalities.
+
 -Aptitude: Strong problem-solving and analytical skills.
+
 -Web Development: Basic skills in creating and maintaining websites
 
 💼 Current Role-
