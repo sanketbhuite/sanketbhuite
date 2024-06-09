@@ -65,9 +65,3 @@ I am an active member of the NCC and have demonstrated leadership skills.
 I enjoy programming and have received awards for my projects.
 
 I write poetry and have been honored for my work.
-
-
---
-sanketbhuite/sanketbhuite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
