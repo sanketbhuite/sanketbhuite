@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sanket%20Bhuite&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Data%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sanket%20Bhuite&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20Problem%20Solver&descAlignY=55&descSize=16" width="100%"/>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=110&lines=🏆+National+Hackathon+Winner+%7C+Dexter+InnoFest;💻+React+%7C+Spring+Boot+%7C+Python+%7C+Cloud;🎯+B.Sc.+CS+%40+Solapur+University+%7C+2026)](https://git.io/typing-svg)
