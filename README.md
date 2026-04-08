@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sanket%20Bhuite&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Data%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=16" width="100%"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🏆+National+Hackathon+Winner+%7C+Dexter+InnoFest;💻+React+%7C+Spring+Boot+%7C+Python+%7C+Cloud;🎯+B.Sc.+CS+%40+Solapur+University+%7C+2026)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=110&lines=🏆+National+Hackathon+Winner+%7C+Dexter+InnoFest;💻+React+%7C+Spring+Boot+%7C+Python+%7C+Cloud;🎯+B.Sc.+CS+%40+Solapur+University+%7C+2026)](https://git.io/typing-svg)
 
 <!-- Social Badges -->
 <p>
@@ -29,18 +29,18 @@
 class SanketBhuite:
     def __init__(self):
         self.name        = "Sanket Bhuite"
-        self.location    = "Solapur, Maharashtra, India 🇮🇳"
+        self.location    = "Sangola, Maharashtra, India 🇮🇳"
         self.education   = "B.Sc. Computer Science @ Solapur University (2023–2026)"
-        self.role        = "Full-Stack Developer & Aspiring Data Professional"
-        self.languages   = ["Python", "Java", "JavaScript", "C", "C++", "SQL", "PHP"]
+        self.role        = "Full-Stack Developer & Data Analyst"
+        self.languages   = ["Python", "Java", ".NET", "C", "C++", "SQL", "PHP"]
         self.frameworks  = ["React.js", "Spring Boot", "Flask", "Django", "Next.js"]
         self.cloud       = ["Microsoft Azure (AZ-900 ✅)", "AWS", "Google Cloud"]
         self.tools       = ["Git", "Docker", "Power BI", "MySQL", "REST APIs"]
         self.achievement = "🏆 National Winner – Dexter InnoFest Hackathon"
         self.currently   = "Solving #GFG160DailyDSA | Building full-stack apps"
-        self.fun_facts   = ["🏀 District-level basketball player",
-                            "🪖 Active NCC member",
-                            "✍️ Awarded poet & programmer"]
+        self.fun_facts   = ["🏀 State-level basketball player",
+                            "🎸 Guitarist",
+                            "✍️ Awarded poet & rapper"]
 
     def say_hello(self):
         print("Thanks for visiting! Let's build something amazing together 🚀")
@@ -178,9 +178,8 @@ class SanketBhuite:
 
 ## 🌱 Beyond the Code
 
-- 🏀 **Basketball** — Competed at district level
-- 🪖 **NCC** — Active member, demonstrated leadership
-- ✍️ **Poetry** — Awarded for creative writing
+- 🏀 **Basketball** — Competed at State level at Udaipur(Rajasthan)
+- ✍️ **Poetry & Rapping** — Awarded for creative writing
 - 🧩 **DSA** — Solving #GFG160DailyDSA challenge
 
 ---
