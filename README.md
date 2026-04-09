@@ -162,7 +162,7 @@ class SanketBhuite:
 | Career Essentials in Cybersecurity ✅ | Microsoft & LinkedIn |
 | Cybersecurity Job Simulation ✅ | Mastercard |
 | Trust & Security with Google Cloud ✅ | Google Cloud (SimpliLearn) |
-| 🏆 National Winner – Dexter InnoFest | Hackathon |
+| 🏆 National Hackathon Winner – Dexter InnoFest | P. A. H. Solapur University |
 
 ---
 
