@@ -26,6 +26,32 @@
 ## 🧑‍💻 About Me
 
 ```python
+⠐⡐⢀⠂⡐⢀⠂⡀⠂⠠⠀⠂⠠⠀⠂⠠⠀⢂⠠⠠⠀⠄⠄⠠⠠⠀⠂⡀⠂⠄⠂⡐⢀⠂  Sanket Bhuite
+⠐⡀⢂⠐⠀⠄⠄⠐⠈⠠⠈⡀⢁⠈⠄⣁⣈⣄⣄⣐⠀⠂⠐⠀⠂⢈⠠⠀⠂⠂⢁⠐⠠⠈  ------------------------------
+⠐⠀⠄⠂⢁⠐⠀⡁⢈⠀⠂⢠⣰⣶⣿⣿⣿⣿⣿⢿⣿⣷⣈⠀⡁⢀⠠⠀⢁⠈⡀⠐⢈⠠  OS:          Sangola, Maharashtra, India
+⠀⠅⠂⢈⠀⡀⠂⠀⠄⢀⣵⣿⣿⣿⣿⣿⣿⣿⣯⣿⣿⣿⡿⡀⠠⠀⢀⠠⠀⠄⠠⠈⢀⠀  Host:        B.Sc. CS @ Solapur University
+⠐⢀⠈⡀⢀⠠⠀⠁⠄⢼⣿⣿⣿⠿⠛⢋⠉⠄⠈⢈⠙⣿⣷⡄⠠⠀⡀⠀⠠⠀⠐⠀⠂⡀  Uptime:      2023 - 2026
+⠀⠂⡀⠄⠀⡀⠄⠂⢀⠨⣿⣿⢸⠨⠐⠀⢀⠀⠀⠠⠀⠽⣿⠅⠀⡀⠀⠐⠀⡀⠁⠄⠁⡀   Role:        Full-Stack Developer & Data Analyst
+⠀⡁⢀⠠⠀⢀⠀⡀⠀⢀⢙⢣⢱⢬⣤⡠⢀⢠⣤⠴⠬⣠⢉⠠⠀⠀⡀⠂⠀⠠⠐⠀⠂⠀
+⠀⠄⡀⠄⠐⠀⠀⡀⠈⠰⣑⠫⡚⠝⠕⡫⠋⢊⠸⠙⠉⠐⠐⡈⠀⠄⠀⠀⠐⠀⠠⠐⠀⠁  Languages:   Python, Java, .NET, C, C++, SQL, PHP
+⠐⢀⠠⠀⠐⠀⠁⠀⠀⠀⢣⢡⢀⠀⡄⣊⡀⡀⢀⠀⠀⢀⠡⠐⠀⠀⡀⠈⠀⠐⠀⡀⠂⠁   Frameworks:  React.js, Spring Boot, Flask, Django,
+⠀⠂⠠⠀⡁⠐⠀⠂⠁⠀⡀⠘⡔⢵⢵⡸⠨⢨⢠⠆⡂⢂⠀⠀⠀⢀⠀⢀⠈⠀⠄⢀⠐⠀               Next.js
+⠈⡀⡁⠄⠠⠐⠀⠄⠐⠀⠀⠀⢱⢣⡑⢕⢤⡂⠂⡁⡢⠂⠀⠀⠐⠀⠀⢀⠀⠂⠀⠄⠀⠂   Cloud:       Azure (AZ-900), AWS, GCP
+⠐⠀⠄⠐⡀⠐⠀⠄⠂⠐⠈⠀⡮⡱⣪⢤⣠⣀⢔⠜⠠⢡⠀⠐⠀⠐⠈⠀⠀⠄⠁⡀⠁⠂  Tools:       Git, Docker, Power BI, MySQL, REST
+⠈⠄⡁⠂⠄⡈⣀⣢⣴⠆⠀⠀⠹⡜⠔⡝⡎⡎⠔⠠⠁⡞⠀⠀⢠⣅⣀⠂⠁⡀⠂⡀⠡⠈               APIs
+⢈⣄⣴⣼⣾⣿⣿⣿⣧⣤⣤⣄⠀⢣⡑⢌⠪⡐⠡⢈⢬⠃⠀⠀⠀⢻⣿⣷⣶⣤⣢⣀⢂⠁
+⣽⣿⣿⣿⣿⢿⣿⣿⣿⣿⣿⣿⣶⠀⠑⡀⠁⡂⠁⡂⠕⠀⢐⣷⣶⣾⣿⢾⣿⣽⣟⣿⣟⣧  Award:       National Winner - Dexter InnoFest
+⣿⣿⣿⣿⣾⣿⣿⣿⣟⣿⣿⣿⣿⠈⠀⠀⠠⠀⠂⠀⣰⣾⣿⣿⣿⣿⣿⣻⣿⣾⣿⣻⣽⣿               Hackathon 
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣟⣿⣅⠀⠀⠨⠀⠀⢐⣿⣿⣿⢿⣿⣿⣽⣿⣯⣷⣿⣿⣿⣿  Currently:   Solving #GFG160DailyDSA, building
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠘⠀⠀⢰⣿⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿               full-stack apps
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⡄⠀⠀⠀⠀⣾⣿⣿⣟⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⣐⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿  Fun Facts:   State-level basketball player
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣀⠠⣺⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿           :   Guitarist
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡅⡁⣐⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿           :   Awarded poet & rapper
+```
+
+
+```python
 class SanketBhuite:
     def __init__(self):
         self.name        = "Sanket Bhuite"
