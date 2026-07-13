@@ -26,50 +26,28 @@
 ## 🧑‍💻 About Me
 
 ```python
-⠐⡐⢀⠂⡐⢀⠂⡀⠂⠠⠀⠂⠠⠀⠂⠠⠀⢂⠠⠠⠀⠄⠄⠠⠠⠀⠂⡀⠂⠄⠂⡐⢀⠂  Sanket Bhuite
+⠐⡐⢀⠂⡐⢀⠂⡀⠂⠠⠀⠂⠠⠀⠂⠠⠀⢂⠠⠠⠀⠄⠄⠠⠠⠀⠂⡀⠂⠄⠂⡐⢀⠂  Class : Sanket Bhuite 
 ⠐⡀⢂⠐⠀⠄⠄⠐⠈⠠⠈⡀⢁⠈⠄⣁⣈⣄⣄⣐⠀⠂⠐⠀⠂⢈⠠⠀⠂⠂⢁⠐⠠⠈  ------------------------------
-⠐⠀⠄⠂⢁⠐⠀⡁⢈⠀⠂⢠⣰⣶⣿⣿⣿⣿⣿⢿⣿⣷⣈⠀⡁⢀⠠⠀⢁⠈⡀⠐⢈⠠  OS:          Sangola, Maharashtra, India
-⠀⠅⠂⢈⠀⡀⠂⠀⠄⢀⣵⣿⣿⣿⣿⣿⣿⣿⣯⣿⣿⣿⡿⡀⠠⠀⢀⠠⠀⠄⠠⠈⢀⠀  Host:        B.Sc. CS @ Solapur University
-⠐⢀⠈⡀⢀⠠⠀⠁⠄⢼⣿⣿⣿⠿⠛⢋⠉⠄⠈⢈⠙⣿⣷⡄⠠⠀⡀⠀⠠⠀⠐⠀⠂⡀  Uptime:      2023 - 2026
-⠀⠂⡀⠄⠀⡀⠄⠂⢀⠨⣿⣿⢸⠨⠐⠀⢀⠀⠀⠠⠀⠽⣿⠅⠀⡀⠀⠐⠀⡀⠁⠄⠁⡀   Role:        Full-Stack Developer & Data Analyst
+⠐⠀⠄⠂⢁⠐⠀⡁⢈⠀⠂⢠⣰⣶⣿⣿⣿⣿⣿⢿⣿⣷⣈⠀⡁⢀⠠⠀⢁⠈⡀⠐⢈⠠  self.OS:          Sangola, Maharashtra, India
+⠀⠅⠂⢈⠀⡀⠂⠀⠄⢀⣵⣿⣿⣿⣿⣿⣿⣿⣯⣿⣿⣿⡿⡀⠠⠀⢀⠠⠀⠄⠠⠈⢀⠀  self.Host:        B.Sc. CS @ Solapur University
+⠐⢀⠈⡀⢀⠠⠀⠁⠄⢼⣿⣿⣿⠿⠛⢋⠉⠄⠈⢈⠙⣿⣷⡄⠠⠀⡀⠀⠠⠀⠐⠀⠂⡀  self.Uptime:      2023 - 2026
+⠀⠂⡀⠄⠀⡀⠄⠂⢀⠨⣿⣿⢸⠨⠐⠀⢀⠀⠀⠠⠀⠽⣿⠅⠀⡀⠀⠐⠀⡀⠁⠄⠁⡀   self.Role:        Full-Stack Developer & Data Analyst
 ⠀⡁⢀⠠⠀⢀⠀⡀⠀⢀⢙⢣⢱⢬⣤⡠⢀⢠⣤⠴⠬⣠⢉⠠⠀⠀⡀⠂⠀⠠⠐⠀⠂⠀
-⠀⠄⡀⠄⠐⠀⠀⡀⠈⠰⣑⠫⡚⠝⠕⡫⠋⢊⠸⠙⠉⠐⠐⡈⠀⠄⠀⠀⠐⠀⠠⠐⠀⠁  Languages:   Python, Java, .NET, C, C++, SQL, PHP
-⠐⢀⠠⠀⠐⠀⠁⠀⠀⠀⢣⢡⢀⠀⡄⣊⡀⡀⢀⠀⠀⢀⠡⠐⠀⠀⡀⠈⠀⠐⠀⡀⠂⠁   Frameworks:  React.js, Spring Boot, Flask, Django,
-⠀⠂⠠⠀⡁⠐⠀⠂⠁⠀⡀⠘⡔⢵⢵⡸⠨⢨⢠⠆⡂⢂⠀⠀⠀⢀⠀⢀⠈⠀⠄⢀⠐⠀               Next.js
-⠈⡀⡁⠄⠠⠐⠀⠄⠐⠀⠀⠀⢱⢣⡑⢕⢤⡂⠂⡁⡢⠂⠀⠀⠐⠀⠀⢀⠀⠂⠀⠄⠀⠂   Cloud:       Azure (AZ-900), AWS, GCP
-⠐⠀⠄⠐⡀⠐⠀⠄⠂⠐⠈⠀⡮⡱⣪⢤⣠⣀⢔⠜⠠⢡⠀⠐⠀⠐⠈⠀⠀⠄⠁⡀⠁⠂  Tools:       Git, Docker, Power BI, MySQL, REST
-⠈⠄⡁⠂⠄⡈⣀⣢⣴⠆⠀⠀⠹⡜⠔⡝⡎⡎⠔⠠⠁⡞⠀⠀⢠⣅⣀⠂⠁⡀⠂⡀⠡⠈               APIs
+⠀⠄⡀⠄⠐⠀⠀⡀⠈⠰⣑⠫⡚⠝⠕⡫⠋⢊⠸⠙⠉⠐⠐⡈⠀⠄⠀⠀⠐⠀⠠⠐⠀⠁  self.Languages:   Python, Java, .NET, C, C++, SQL, PHP
+⠐⢀⠠⠀⠐⠀⠁⠀⠀⠀⢣⢡⢀⠀⡄⣊⡀⡀⢀⠀⠀⢀⠡⠐⠀⠀⡀⠈⠀⠐⠀⡀⠂⠁   self.Frameworks:  React.js, Spring Boot, Flask, Django,
+⠀⠂⠠⠀⡁⠐⠀⠂⠁⠀⡀⠘⡔⢵⢵⡸⠨⢨⢠⠆⡂⢂⠀⠀⠀⢀⠀⢀⠈⠀⠄⢀⠐⠀                     Next.js
+⠈⡀⡁⠄⠠⠐⠀⠄⠐⠀⠀⠀⢱⢣⡑⢕⢤⡂⠂⡁⡢⠂⠀⠀⠐⠀⠀⢀⠀⠂⠀⠄⠀⠂   self.Cloud:       Azure (AZ-900), AWS, GCP
+⠐⠀⠄⠐⡀⠐⠀⠄⠂⠐⠈⠀⡮⡱⣪⢤⣠⣀⢔⠜⠠⢡⠀⠐⠀⠐⠈⠀⠀⠄⠁⡀⠁⠂  self.Tools:       Git, Docker, Power BI, MySQL, REST
+⠈⠄⡁⠂⠄⡈⣀⣢⣴⠆⠀⠀⠹⡜⠔⡝⡎⡎⠔⠠⠁⡞⠀⠀⢠⣅⣀⠂⠁⡀⠂⡀⠡⠈                    APIs
 ⢈⣄⣴⣼⣾⣿⣿⣿⣧⣤⣤⣄⠀⢣⡑⢌⠪⡐⠡⢈⢬⠃⠀⠀⠀⢻⣿⣷⣶⣤⣢⣀⢂⠁
-⣽⣿⣿⣿⣿⢿⣿⣿⣿⣿⣿⣿⣶⠀⠑⡀⠁⡂⠁⡂⠕⠀⢐⣷⣶⣾⣿⢾⣿⣽⣟⣿⣟⣧  Award:       National Winner - Dexter InnoFest
-⣿⣿⣿⣿⣾⣿⣿⣿⣟⣿⣿⣿⣿⠈⠀⠀⠠⠀⠂⠀⣰⣾⣿⣿⣿⣿⣿⣻⣿⣾⣿⣻⣽⣿               Hackathon 
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣟⣿⣅⠀⠀⠨⠀⠀⢐⣿⣿⣿⢿⣿⣿⣽⣿⣯⣷⣿⣿⣿⣿  Currently:   Solving #GFG160DailyDSA, building
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠘⠀⠀⢰⣿⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿               full-stack apps
+⣽⣿⣿⣿⣿⢿⣿⣿⣿⣿⣿⣿⣶⠀⠑⡀⠁⡂⠁⡂⠕⠀⢐⣷⣶⣾⣿⢾⣿⣽⣟⣿⣟⣧  self.Award:       National Winner - Dexter InnoFest
+⣿⣿⣿⣿⣾⣿⣿⣿⣟⣿⣿⣿⣿⠈⠀⠀⠠⠀⠂⠀⣰⣾⣿⣿⣿⣿⣿⣻⣿⣾⣿⣻⣽⣿                    Hackathon 
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣟⣿⣅⠀⠀⠨⠀⠀⢐⣿⣿⣿⢿⣿⣿⣽⣿⣯⣷⣿⣿⣿⣿  self.Currently:   Solving #GFG160DailyDSA, building
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠘⠀⠀⢰⣿⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿                    full-stack apps
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⡄⠀⠀⠀⠀⣾⣿⣿⣟⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⣐⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿  Fun Facts:   State-level basketball player
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣀⠠⣺⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿           :   Guitarist
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡅⡁⣐⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿           :   Awarded poet & rapper
-```
-
-
-```python
-class SanketBhuite:
-    def __init__(self):
-        self.name        = "Sanket Bhuite"
-        self.location    = "Sangola, Maharashtra, India 🇮🇳"
-        self.education   = "B.Sc. Computer Science @ Solapur University (2023–2026)"
-        self.role        = "Full-Stack Developer & Data Analyst"
-        self.languages   = ["Python", "Java", ".NET", "C", "C++", "SQL", "PHP"]
-        self.frameworks  = ["React.js", "Spring Boot", "Flask", "Django", "Next.js"]
-        self.cloud       = ["Microsoft Azure (AZ-900 ✅)", "AWS", "Google Cloud"]
-        self.tools       = ["Git", "Docker", "Power BI", "MySQL", "REST APIs"]
-        self.achievement = "🏆 National Winner – Dexter InnoFest Hackathon"
-        self.currently   = "Solving #GFG160DailyDSA | Building full-stack apps"
-        self.fun_facts   = ["🏀 State-level basketball player",
-                            "🎸 Guitarist",
-                            "✍️ Awarded poet & rapper"]
-
-    def say_hello(self):
-        print("Thanks for visiting! Let's build something amazing together 🚀")
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⣐⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿  self.Fun Facts:   State-level basketball player
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣀⠠⣺⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿               :   Guitarist
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡅⡁⣐⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿               :   Awarded poet & rapper
 ```
 
 ---
